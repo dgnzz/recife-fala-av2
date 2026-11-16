@@ -5,9 +5,8 @@ Projeto da equipe **Voz Ativa** (UNINASSAU Recife - Graças | Tópicos Integrado
 Protótipo navegável construído na AV1: [Visualizar no Canva](https://canva.link/pawa3zme6jzk0nu)
 
 ## Integrantes do Grupo
-- **José Diogo Santos da Luz** (01725870) — Líder Técnico e Back-end
+- **José Diogo Santos da Luz** (01725870) — Líder Técnico, Back-end e Banco de Dados (MySQL)
 - **Ludmilla Kimberlie** (01864563) — Front-end e Acessibilidade
-- **Geovana Araujo** (01809166) — Banco de Dados (MySQL)
 - **Rodrigo Santos** (01812779) — Back-end e Integração de Voz
 - **Victor Guilherme** (01849176) — Testes e Documentação
 
